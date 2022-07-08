@@ -11,7 +11,12 @@ An ambitious and enthusiastic software engineering student, interested in variou
 *   ✉️  You can contact me at [abeeralakooz1@gmail.com](mailto:abeeralakooz1@gmail.com)
 *   🧠  I'm learning full-stack web development, UI/UX
 *   🤝  I'm open to collaborating on anything that peaks my intrests even if I don't know the language I am willing to put in the effort and learn as we go!
-*   ⚡  “Big results require big ambitions.” – James Champy### Skills<p align="left">
+*   ⚡  “Big results require big ambitions.” – James Champy
+
+### Skills
+
+<p align="left">
+
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
