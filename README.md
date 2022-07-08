@@ -1,11 +1,11 @@
-![Header](./github-header.png)
+![github-header-image (5)](https://user-images.githubusercontent.com/86795969/178082529-19b79def-7c57-49f3-a1e9-15f69bfa7372.png)
 
-
-
-Hello World![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abeer Alakooz
+Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abeer Alakooz
 =====================================================================================================================================
 
-A software engineering student by day and a UI/UX designer by night
+A software engineering student by day and a UI/UX designer by night 
+(img align="right" alt="Coding" width="400" src="https://i.ibb.co/mhV95Rg/githubde.gif")
+
 -------------------------------------------------------------------
 
 An ambitious and enthusiastic software engineering student, interested in various fields of technology and many programming languages.
