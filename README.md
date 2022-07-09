@@ -1,10 +1,8 @@
-### Hi there 👋, I am Abeer!  
+### Hello there [<img src='https://user-images.githubusercontent.com/86795969/178086321-b7501b2d-8072-4aa0-aef8-430ca3505e0b.gif' alt='coding' height='40'>](1), I am Abeer!  
 #### A software engineering student by day and a UI/UX designer by night [<img src='https://user-images.githubusercontent.com/86795969/178086244-4168540b-0734-4eb8-966d-6462690512f2.gif' alt='coding' height='40'>](1)
 ![A software engineering student by day and a UI/UX designer by night](https://user-images.githubusercontent.com/86795969/178082529-19b79def-7c57-49f3-a1e9-15f69bfa7372.png) 
 
 An ambitious and enthusiastic software engineering student, interested in various fields of technology and many programming languages. 
-
-
 
 
 - 🔭 I’m currently working on developing my skills more! 
