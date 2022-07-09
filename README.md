@@ -3,7 +3,7 @@
 ![A software engineering student by day and a UI/UX designer by night](https://user-images.githubusercontent.com/86795969/178082529-19b79def-7c57-49f3-a1e9-15f69bfa7372.png) 
 
 An ambitious and enthusiastic software engineering student, interested in various fields of technology and many programming languages. 
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/86795969/178083771-d2a30e5b-0182-4549-ae24-dbf497511697.gif")
+
 
 - 🔭 I’m currently working on developing my skills more! 
 - 🌱 I’m currently learning full-stack web development, UI/UX 
