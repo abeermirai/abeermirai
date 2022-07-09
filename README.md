@@ -8,7 +8,7 @@ An ambitious and enthusiastic software engineering student, interested in variou
 - 🔭 I’m currently working on developing my skills more! 
 - 🌱 I’m currently learning full-stack web development, UI/UX 
 - 👩🏻‍💻 I’m looking to collaborate on anything that peaks my intrests even if I don't know the language I am willing to put in the effort and learn as we go! 
-- 💬 Ask me about Java, JS and UI/UX!  
+- 💬 Ask me about Java, JS and UI/UX!  ![githubde](https://user-images.githubusercontent.com/86795969/178085703-a52ad95c-c4e3-4ab9-92f5-22f138ec5124.gif)
 - 📫 How to reach me: abeeralakooz1@gmail.com 
 - 📖 “Big results require big ambitions.” – James Champy
 
