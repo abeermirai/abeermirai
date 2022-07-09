@@ -12,7 +12,7 @@ An ambitious and enthusiastic software engineering student, interested in variou
 - 📫 How to reach me: abeeralakooz1@gmail.com 
 - 📖 “Big results require big ambitions.” – James Champy
 
-![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086449-51fcc493-0300-4c81-ab81-4807791ffec7.png)![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086454-2b82c38a-f039-43d3-a50c-0c71f1c8e6c4.png)![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086457-839cd837-c455-4128-89c6-716070068820.png)![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086465-732aa908-bc4b-4358-8a34-6cba6edd8a2f.png)
+![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086449-51fcc493-0300-4c81-ab81-4807791ffec7.png)![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086454-2b82c38a-f039-43d3-a50c-0c71f1c8e6c4.png)![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086457-839cd837-c455-4128-89c6-716070068820.png)
 
 
 
