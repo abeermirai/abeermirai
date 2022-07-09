@@ -1,6 +1,6 @@
 ![A software engineering student by day and a UI/UX designer by night](https://user-images.githubusercontent.com/86795969/178088033-93921764-93df-4b90-98f5-8eb75da40a1b.png) 
-### Hello there [<img src='https://user-images.githubusercontent.com/86795969/178086321-b7501b2d-8072-4aa0-aef8-430ca3505e0b.gif' alt='coding' height='40'>](1), I am Abeer!  
-#### A software engineering student by day and a UI/UX designer by night [<img src='https://user-images.githubusercontent.com/86795969/178086244-4168540b-0734-4eb8-966d-6462690512f2.gif' alt='coding' height='40'>](1)
+### Hello there [<img src='https://user-images.githubusercontent.com/86795969/178086321-b7501b2d-8072-4aa0-aef8-430ca3505e0b.gif' alt='coding' height='25'>](1), I am Abeer!  
+#### A software engineering student by day and a UI/UX designer by night [<img src='https://user-images.githubusercontent.com/86795969/178086244-4168540b-0734-4eb8-966d-6462690512f2.gif' alt='coding' height='30'>](1)
 
 An ambitious and enthusiastic software engineering student, interested in various fields of technology and many programming languages. 
 
