@@ -5,10 +5,10 @@
 An ambitious and enthusiastic software engineering student, interested in various fields of technology and many programming languages. 
 
 - 🔭 I’m currently working on developing my skills more! 
-- 🌱 I’m currently learning full-stack web development, UI/UX 
+- 🌱 I’m currently learning Artificial Intelliegence, Machine Learning (Computer Vision), and UI/UX 
 - 👩🏻‍💻 I’m looking to collaborate on anything that peaks my intrests even if I don't know the language I am willing to put in the effort and learn as we go! 
-- 💬 Ask me about Java, JS and UI/UX! 
-- 📫 How to reach me: abeeralakooz1@gmail.com 
+- 💬 Ask me about Python, Javascript, UI/UX!
+- 📫 How to reach me: abeeralakooz@gmail.com 
 - 📖 “Big results require big ambitions.” – James Champy
 
 ![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086449-51fcc493-0300-4c81-ab81-4807791ffec7.png)![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086454-2b82c38a-f039-43d3-a50c-0c71f1c8e6c4.png)![tiny_plant_divider_by_russianblues_d9ub232](https://user-images.githubusercontent.com/86795969/178086457-839cd837-c455-4128-89c6-716070068820.png)
